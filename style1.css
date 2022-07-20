@@ -1,0 +1,19 @@
+img{
+    height: 200px;
+    border-radius: 5px;
+}
+.myh1,.myp1{
+    font-family: 'Roboto', sans-serif;
+    color: sandybrown;
+}
+.mybtn1{
+    height: 30px;
+    width: 40px;
+    background-image: linear-gradient(to right, red, orange);
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+table{
+    border: 3px dashed rgb(242, 108, 35);
+}
